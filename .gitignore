@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+*.env
+.env.local
+
+# 🔹 IDE / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store

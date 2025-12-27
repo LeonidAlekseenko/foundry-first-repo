@@ -18,6 +18,10 @@ https://book.getfoundry.sh/
 ### Build
 
 ```shell
+$ forge init
+```
+
+```shell
 $ forge build
 ```
 
